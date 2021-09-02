@@ -8,5 +8,6 @@
 </head>
 <body>
 	git test ver.1.00
+	git test ver.2.00
 </body>
 </html>
